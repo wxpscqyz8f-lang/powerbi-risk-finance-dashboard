@@ -1,4 +1,4 @@
-# 📊 Strategic BI Platform — Power BI Risk & Finance (BNP Paribas ITG-FRESH)
+# Strategic BI Platform — Power BI Risk & Finance (BNP Paribas ITG-FRESH)
 
 > **Context:** Digital transformation at a major French bank's Risk & Finance division (ITG-FRESH / RDS pole)
 > **Role:** Business Analyst Expert Power BI — freelance, on-site — sole owner of 6 strategic dashboards
@@ -6,7 +6,7 @@
 
 ---
 
-## 🎯 Business Problem
+## Business Problem
 
 The Risk & Finance teams at ITG-FRESH relied entirely on **manual Excel reports sent by email** to track resources, budgets, risks, and IT obsolescence across the organization.
 
@@ -20,7 +20,7 @@ The Risk & Finance teams at ITG-FRESH relied entirely on **manual Excel reports 
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -52,7 +52,7 @@ The Risk & Finance teams at ITG-FRESH relied entirely on **manual Excel reports 
 
 ---
 
-## 📋 6 Strategic Dashboards
+## 6 Strategic Dashboards
 
 | Dashboard | Domain | Key Indicators |
 |---|---|---|
@@ -65,7 +65,7 @@ The Risk & Finance teams at ITG-FRESH relied entirely on **manual Excel reports 
 
 ---
 
-## 📁 Repository Contents
+## Repository Contents
 
 > ⚠️ The `.pbix` file included uses **anonymized sample data** — all real business data has been replaced with fictional values. The data model, DAX measures, RLS configuration and visual structure are authentic.
 
@@ -87,7 +87,7 @@ The Risk & Finance teams at ITG-FRESH relied entirely on **manual Excel reports 
 
 ---
 
-## ⚙️ Key Technical Elements
+## Key Technical Elements
 
 ### DAX — Examples of complex measures
 
@@ -143,17 +143,17 @@ RLS Roles:
 
 ---
 
-## 📊 Results
+##  Results
 
-- ✅ **6 manual Excel reports replaced** by real-time interactive dashboards
-- ✅ **Unified strategic visibility** for Risk & Finance leadership
-- ✅ **Full governance deployed** — RLS, Dev/Test/Prod, automated refresh
-- ✅ **End-to-end ownership** — requirements → build → governance → training → support
-- ✅ Banking-grade compliance: data access control, change management process enforced
+- ==> **6 manual Excel reports replaced** by real-time interactive dashboards
+- ==> **Unified strategic visibility** for Risk & Finance leadership
+- ==> **Full governance deployed** — RLS, Dev/Test/Prod, automated refresh
+- ==> **End-to-end ownership** — requirements → build → governance → training → support
+- ==> Banking-grade compliance: data access control, change management process enforced
 
 ---
 
-## 🛠️ Full Stack
+## Full Stack
 
 | Layer | Technology |
 |---|---|
@@ -167,7 +167,7 @@ RLS Roles:
 
 ---
 
-## 🔗 Related Projects
+## Related Projects
 
 - [Consultant-Mission Matching Pipeline — AWS Lambda + NLP](../consultant-matching-pipeline/README.md)
 - [dbt Data Warehouse Modeling](#) *(coming soon)*
