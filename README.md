@@ -30,7 +30,7 @@ Les équipes Risk & Finance d'ITG-FRESH s'appuyaient entièrement sur des **rapp
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │                     SOURCES DE DONNÉES                           │
-│  SFTP (fichiers)  │  SharePoint   │  ServiceNow GRC (API)   │
+│  SFTP (fichiers)  │  SharePoint (API)  │  ServiceNow GRC (API)   │
 └───────┬─────────────────┬──────────────────┬────────────────────┘
         │                 │                  │
         ▼                 ▼                  ▼
