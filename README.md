@@ -1,7 +1,7 @@
 # powerbi-risk-finance-dashboard
 Power BI dashboards for Risk &amp; Finance reporting — BNP Paribas ITG-FRESH
 
-
+> (i) Inspirée d’un cas réel en entreprise, recréée de manière fictive et simplifiée à des fins pédagogiques. Aucun élément confidentiel n’est présenté.
 
 #  Plateforme BI Stratégique — Power BI Risk & Finance (BNP Paribas ITG-FRESH)
  
@@ -52,7 +52,7 @@ Les équipes Risk & Finance d'ITG-FRESH s'appuyaient entièrement sur des **rapp
 │  RLS par profil utilisateur  │  Espaces de travail  │  Refresh  │
 └──────────────┬──────────────────────────┬───────────────────────┘
                ▼                          ▼
-     Utilisateurs Risk & Finance     Équipes de direction
+     Utilisateurs <!-- Risk & Finance -->     Équipes de direction
 ```
  
 ---
