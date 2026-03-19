@@ -52,7 +52,7 @@ Les équipes Risk & Finance d'ITG-FRESH s'appuyaient entièrement sur des **rapp
 │  RLS par profil utilisateur  │  Espaces de travail  │  Refresh  │
 └──────────────┬──────────────────────────┬───────────────────────┘
                ▼                          ▼
-     Utilisateurs <!-- Risk & Finance -->     Équipes de direction
+     Utilisateurs métier          Équipes de direction
 ```
  
 ---
