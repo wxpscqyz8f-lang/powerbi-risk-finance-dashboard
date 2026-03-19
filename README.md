@@ -174,5 +174,5 @@ Rôles RLS :
  
 ## Projets Associés
  
-- [Pipeline de matching consultants-missions — AWS Lambda + NLP](../consultant-matching-pipeline/README.md)
+- [Pipeline de matching consultants-missions — AWS Lambda + NLP](../aws-nlp-consultant-matching/README.md)
 - [Modélisation Data Warehouse dbt](#) *(à venir)*
