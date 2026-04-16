@@ -1,7 +1,3 @@
----
-permalink: /english/
----
-
 # Strategic BI Platform
 Welcome to the English version.
 
@@ -181,3 +177,7 @@ RLS Roles:
 
 - [Consultant-Mission Matching Pipeline — AWS Lambda + NLP](../consultant-matching-pipeline/README.md)
 - [dbt Data Warehouse Modeling](#) *(coming soon)*
+
+---
+permalink: /english/
+---
