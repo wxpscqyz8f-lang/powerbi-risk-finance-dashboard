@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Power BI Risk & Finance Dashboard"
+title: "Plateforme BI Stratégique"
 permalink: /
 ---
 
