@@ -1,8 +1,20 @@
 ---
-layout: page
-title: "Plateforme BI Stratégique"
+layout: default
+title: Accueil
 permalink: /
 ---
+
+# Plateforme BI Stratégique
+
+Bienvenue sur la version web du projet.
+
+## Navigation rapide
+- Aller à la [galerie d’images]({{ '/images/' | relative_url }})
+- Aller à la [version anglaise]({{ '/english/' | relative_url }})
+
+---
+
+<!-- colle ici le contenu principal de ton README.md -->
 
 > (i) Inspirée d’un cas réel en entreprise, recréée de manière fictive et simplifiée à des fins pédagogiques. Aucun élément confidentiel n’est présenté. indes
 
