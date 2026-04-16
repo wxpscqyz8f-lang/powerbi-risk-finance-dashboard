@@ -3,7 +3,6 @@ title: Images
 permalink: /images/
 ---
 
-# Images
 
 ## Architecture
 ![Architecture](Architecture.png)
