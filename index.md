@@ -1,3 +1,8 @@
+---
+layout: default
+title: Mon site
+---
+
 > (i) Inspirée d’un cas réel en entreprise, recréée de manière fictive et simplifiée à des fins pédagogiques. Aucun élément confidentiel n’est présenté.
 
 #  Plateforme BI Stratégique — Power BI Risk & Finance (BNP Paribas ITG-FRESH)
