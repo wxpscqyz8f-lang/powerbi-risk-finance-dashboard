@@ -1,11 +1,9 @@
 ---
-layout: default
 title: English Version
 permalink: /english/
 ---
 
-# Power BI Risk & Finance Dashboard
-
+# Strategic BI Platform
 Welcome to the English version.
 
 ---
