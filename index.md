@@ -1,19 +1,6 @@
 ---
-title: Accueil
 permalink: /
 ---
-
-# Plateforme BI Stratégique
-
-Bienvenue sur la version web du projet.
-
-<!-- ## Navigation rapide
-- Aller à la [galerie d’images]({{ '/images/' | relative_url }})
-- Aller à la [version anglaise]({{ '/english/' | relative_url }})
--->
----
-
-
 > (i) Inspirée d’un cas réel en entreprise, recréée de manière fictive et simplifiée à des fins pédagogiques. Aucun élément confidentiel n’est présenté. indes
 
 #  Plateforme BI Stratégique — Power BI Risk & Finance (BNP Paribas ITG-FRESH)
