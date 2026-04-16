@@ -1,7 +1,3 @@
----
-permalink: /images/
----
-
 # Images
 
 ## Architecture
@@ -11,3 +7,7 @@ permalink: /images/
 ![Data model](Data_model.png)
 
 [Retour à l’accueil]({{ '/' | relative_url }})
+
+---
+permalink: /images/
+---
