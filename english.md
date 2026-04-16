@@ -3,9 +3,6 @@ title : English
 permalink: /english/
 ---
 
-# Strategic BI Platform
-Welcome to the English version.
-
 ---
 
 
