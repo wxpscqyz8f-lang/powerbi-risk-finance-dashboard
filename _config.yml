@@ -1,5 +1,5 @@
 title: Plateforme BI Stratégique
-theme: minima
+#theme: minima
 minima:
   skin: auto
 header_pages:
