@@ -1,5 +1,5 @@
 ---
-title: Accueil
+
 permalink: /
 ---
 
