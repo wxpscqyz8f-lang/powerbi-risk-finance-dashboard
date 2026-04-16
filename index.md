@@ -3,7 +3,7 @@ title: "Plateforme BI Stratégique"
 permalink: /
 ---
 
-> (i) Inspirée d’un cas réel en entreprise, recréée de manière fictive et simplifiée à des fins pédagogiques. Aucun élément confidentiel n’est présenté.
+> (i) Inspirée d’un cas réel en entreprise, recréée de manière fictive et simplifiée à des fins pédagogiques. Aucun élément confidentiel n’est présenté. indes
 
 #  Plateforme BI Stratégique — Power BI Risk & Finance (BNP Paribas ITG-FRESH)
  
