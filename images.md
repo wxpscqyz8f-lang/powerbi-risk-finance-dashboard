@@ -1,3 +1,8 @@
+---
+title: Images
+permalink: /images/
+---
+
 # Images
 
 ## Architecture
@@ -8,6 +13,3 @@
 
 [Retour à l’accueil]({{ '/' | relative_url }})
 
----
-permalink: /images/
----
