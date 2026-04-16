@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Plateforme BI Stratégique"
 permalink: /
 ---
