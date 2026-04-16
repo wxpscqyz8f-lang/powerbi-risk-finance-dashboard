@@ -1,3 +1,16 @@
+---
+layout: default
+title: English Version
+permalink: /english/
+---
+
+# Power BI Risk & Finance Dashboard
+
+Welcome to the English version.
+
+---
+
+
 # Strategic BI Platform — Power BI Risk & Finance (BNP Paribas ITG-FRESH)
 
 > **Context:** Digital transformation at a major French bank's Risk & Finance division (ITG-FRESH / RDS pole)
