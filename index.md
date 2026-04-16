@@ -1,6 +1,7 @@
 ---
-layout: default
-title: Mon site
+layout: page
+title: "Power BI Risk & Finance Dashboard"
+permalink: /
 ---
 
 > (i) Inspirée d’un cas réel en entreprise, recréée de manière fictive et simplifiée à des fins pédagogiques. Aucun élément confidentiel n’est présenté.
