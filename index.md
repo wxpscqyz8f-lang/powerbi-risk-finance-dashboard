@@ -1,3 +1,8 @@
+---
+title: Accueil
+permalink: /
+---
+
 # Plateforme BI Stratégique
 
 Bienvenue sur la version web du projet.
@@ -185,7 +190,3 @@ Rôles RLS :
 - [Pipeline de matching consultants-missions — AWS Lambda + NLP](https://github.com/wxpscqyz8f-lang/aws-nlp-consultant-matching/)
 - [Modélisation Data Warehouse dbt](#) *(à venir)*
 
----
-
-permalink: /
----
