@@ -3,7 +3,6 @@
 permalink: /english/
 ---
 
----
 
 
 # Strategic BI Platform — Power BI Risk & Finance (BNP Paribas ITG-FRESH)
