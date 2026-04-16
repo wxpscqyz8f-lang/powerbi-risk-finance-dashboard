@@ -1,5 +1,5 @@
 ---
-title : English
+
 permalink: /english/
 ---
 
