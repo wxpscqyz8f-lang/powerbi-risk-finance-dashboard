@@ -1,6 +1,5 @@
 title: Plateforme BI Stratégique
-theme: minima
-markdown: kramdown
+
 remote_theme: jekyll/minima
 minima:
   skin: auto
