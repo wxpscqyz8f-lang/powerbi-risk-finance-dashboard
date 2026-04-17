@@ -1,5 +1,7 @@
 ---
+title: FR
 permalink: /
+layout: page
 ---
 > (i) Inspirée d’un cas réel en entreprise, recréée de manière fictive et simplifiée à des fins pédagogiques. Aucun élément confidentiel n’est présenté. indes
 
