@@ -1,6 +1,6 @@
 title: Plateforme BI Stratégique
-#theme: minima
 remote_theme: jekyll/minima
+
 plugins:
   - jekyll-remote-theme
 
